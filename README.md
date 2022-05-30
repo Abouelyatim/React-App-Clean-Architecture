@@ -69,7 +69,7 @@ We can distinguish two cases:
 
 * Flow with network call:
 
-<img src=_readme/flow2.png width="500">
+<img src=_readme/flow2.png width="600">
 
 **1-** Click event on the ui.
 
