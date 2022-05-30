@@ -44,7 +44,7 @@ To explain this architecture in detail, we take a simple example of inserting a 
 
 * Then we define the use case of inserting a note and the interaction with the framework layer.
 
-<img src=_readme/insert-note.png width="500">
+<img src=_readme/insert-note.png width="600">
 
 From this figure it is possible to test the use cases without needing the actual network or cache service, and the same for the other parts. Also now in the interactors directory we can see the different use cases like classes (InserNewNote example in the figure) this helps to design a system that is easy to maintain, and has described itself what it improves the performance of the teamwork ,and it supports parallel work.
 
