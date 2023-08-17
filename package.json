@@ -3,9 +3,6 @@
   "version": "0.0.1",
   "description": "invoicing-statistics-webapp for Egencia",
   "main": "index.js",
-  "publishConfig": {
-    "registry": "https://artylab.expedia.biz/api/npm/egencia-npm-lab-local/"
-  },
   "scripts": {
     "start": "webpack serve --config webpack/webpack.config.js --env env=dev",
     "build": "webpack --config webpack/webpack.config.js --env env=prod",
